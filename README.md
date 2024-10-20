@@ -4,12 +4,11 @@ This repository is created as part of a Git homework assignment. The project sho
 
 The repository includes the following:
 - **README.md**: Project description.
-- **LICENSE.md**: License for the project.
-- **.gitignore**: Ignored files for the project.
-- **INSTALL.md**: Installation instructions.
-                  Refer to [Installation Guide](INSTALL.md)
-- **CONTRIBUTING.md**: Guidelines for contributing.
-- **CODE-OF-CONDUCT.md**: Code of conduct for project contributors.
+- **[LICENSE.md](LICENSE)**: License for the project.
+- **[.gitignore](.gitignore)**: Ignored files for the project.
+- **[INSTALL.md](INSTALL.md)**: Installation instructions.
+- **[CONTRIBUTING.md](CONTRIBUTING.md)**: Guidelines for contributing.
+- **[CODE-OF-CONDUCT.md](CODE-OF-CONDUCT.md)**: Code of conduct for project contributors.
 - **Team Webpage (index.html)**: A simple HTML webpage describing the project team, which includes the team number, all team members' names, and email addresses (with clickable email links). The webpage also features a footer.
 
 Throughout the project, various Git tasks are demonstrated:
