@@ -14,7 +14,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the Repository**  
    To get a local copy of the project, run the following command in your terminal:
    ```bash
-   git clone [repository url](https://github.com/PMJ-SE-Fall-24/git-homework)
+   git clone <[repository url]>(https://github.com/PMJ-SE-Fall-24/git-homework)
    ```
    
 
