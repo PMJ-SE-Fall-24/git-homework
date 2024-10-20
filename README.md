@@ -7,6 +7,7 @@ The repository includes the following:
 - **LICENSE.md**: License for the project.
 - **.gitignore**: Ignored files for the project.
 - **INSTALL.md**: Installation instructions.
+                  Refer to [Installation Guide](INSTALL.md)
 - **CONTRIBUTING.md**: Guidelines for contributing.
 - **CODE-OF-CONDUCT.md**: Code of conduct for project contributors.
 - **Team Webpage (index.html)**: A simple HTML webpage describing the project team, which includes the team number, all team members' names, and email addresses (with clickable email links). The webpage also features a footer.
