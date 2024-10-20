@@ -13,13 +13,14 @@ Before you begin, ensure you have met the following requirements:
 
 1. **Clone the Repository**  
    To get a local copy of the project, run the following command in your terminal:
-   git clone [<repository-url>](https://github.com/PMJ-SE-Fall-24/git-homework)
+   
+   git clone https://github.com/PMJ-SE-Fall-24/git-homework
 
-2. **Navigate to the Project Directory**  
+3. **Navigate to the Project Directory**  
    After cloning, move into the project directory:
    cd git-homework
 
-3. **View the Team Webpage**  
+4. **View the Team Webpage**  
    Open the 'index.html' file in a web browser:
    open index.html
 
