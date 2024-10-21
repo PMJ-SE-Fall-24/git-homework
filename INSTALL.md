@@ -25,9 +25,9 @@ Before you begin, ensure you have met the following requirements:
    ```
 
 3. **View the Team Webpage**  
-   Open the `index.html` file in a web browser:
+   Open the `team.html` file in a web browser:
    ```bash
-   open index.html
+   open team.html
    ```
 
 ## Usage
