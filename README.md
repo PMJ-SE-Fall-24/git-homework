@@ -9,7 +9,7 @@ The repository includes the following:
 - **[INSTALL.md](INSTALL.md)**: Installation instructions.
 - **[CONTRIBUTING.md](CONTRIBUTING.md)**: Guidelines for contributing.
 - **[CODE-OF-CONDUCT.md](CODE-OF-CONDUCT.md)**: Code of conduct for project contributors.
-- **[Team Webpage]([team.html](https://pmj-se-fall-24.github.io/git-homework/team.html))**: A simple HTML webpage describing the project team, which includes the team number, all team members' names, and email addresses (with clickable email links). The webpage also features a footer.
+- **[Team Webpage](https://pmj-se-fall-24.github.io/git-homework/team.html)**: A simple HTML webpage describing the project team, which includes the team number, all team members' names, and email addresses (with clickable email links). The webpage also features a footer.
 
 Throughout the project, various Git tasks are demonstrated:
 - Adding email links to the webpage and committing changes.
