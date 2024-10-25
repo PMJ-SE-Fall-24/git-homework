@@ -3,7 +3,7 @@
 This repository is created as part of a Git homework assignment. The project showcases various Git operations such as repository initialization, branching, merge conflict resolution, and using Git stash.
 
 The repository includes the following:
-- **README.md**: Project description.
+- **[README.md](README.md)**: Project description.
 - **[LICENSE.md](LICENSE)**: License for the project.
 - **[.gitignore](.gitignore)**: Ignored files for the project.
 - **[INSTALL.md](INSTALL.md)**: Installation instructions.
